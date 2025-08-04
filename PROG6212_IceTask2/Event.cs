@@ -19,6 +19,8 @@ namespace PROG6212_IceTask2
             this.eventEndDate = eventEndDate;
         }
 
+       
+
         public object this[int index]
         {
             get
